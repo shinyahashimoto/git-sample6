@@ -2,7 +2,7 @@
 public class Car {
 
 	private int speed;
-	protected String name;
+	public String name;
 	
 	
 	public int getSpeed() {
