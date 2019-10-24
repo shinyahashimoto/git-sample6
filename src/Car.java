@@ -3,6 +3,8 @@ public class Car {
 
 	private int speed;
 	protected String name;
+	
+	
 	public int getSpeed() {
 		return speed;
 	}
